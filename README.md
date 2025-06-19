@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **react** and **APIs**
+- 💬 Ask me about **React** and **APIs**
 
 - 📫 How to reach me **tyejoseph732@gmail.com**
 
