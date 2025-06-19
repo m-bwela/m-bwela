@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Tye </h1>
+<h1 align="center">Hi there👋, I'm Tye </h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-bwela&label=Profile%20views&color=0e75b6&style=flat" alt="m-bwela" /> </p>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react** and **APIs**
 
 - 📫 How to reach me **tyejoseph732@gmail.com**
 
