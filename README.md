@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am Manchester United fan**
 
-<div align="right">
+<div align="left">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
