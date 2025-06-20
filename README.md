@@ -11,14 +11,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-bwela" alt="m-bwela" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tyejoseph1" target="blank"><img src="https://img.shields.io/twitter/follow/tyejoseph1?logo=twitter&style=for-the-badge" alt="tyejoseph1" /></a> </p>
+- 🔭 I’m currently working on **something cool**
 
 - 🌱 I’m currently learning **React.JS**
+
+- 👯 I’m looking to collaborate on **Wordpress**
 
 - 💬 Ask me about **React** and **APIs**
 
 - 📫 How to reach me **tyejoseph732@gmail.com**
 
-- ⚡ Fun fact **I am Manchester United fan**
+- ⚡ Fun fact **I ❤️ 🎮**
 
 <div align="left">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
