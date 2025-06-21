@@ -8,7 +8,7 @@
 
 <!-- Welcome Animated Text --> 
 <p align="center">   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things;Self+Study;.Code++.Debug++.Repeat" alt="Welcome Typing Animation" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things;Self+Study;Code.++Debug.++Repeat." alt="Welcome Typing Animation" /> 
 </p>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-bwela&label=Profile%20views&color=0e75b6&style=flat" alt="m-bwela" /> </p>
