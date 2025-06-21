@@ -43,7 +43,7 @@
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-<h3 align="left">## Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tyejoseph1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyejoseph1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tye joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tye joseph" height="30" width="40" /></a>
@@ -63,6 +63,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-bwela&show_icons=true&locale=en" alt="m-bwela" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-bwela&" alt="m-bwela" /></p>
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=maqiie&icon=0&color=0)](https://visitcount.itsvg.in)
 
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/m-bwela) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/m-bwela)
