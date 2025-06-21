@@ -11,6 +11,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things;Self+Study;Code.++Debug.++Repeat." alt="Welcome Typing Animation" /> 
 </p>  
 
+<h3 align="center">
+    🎉 You are my &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/m-bwela">
+        <img src="https://count.getloli.com/@:superdevp?theme=" alt=":m-bwela" />
+    </a>
+    &nbsp;&nbsp;&nbsp;visitor. Thank You 😍 
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-bwela&label=Profile%20views&color=0e75b6&style=flat" alt="m-bwela" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-bwela" alt="m-bwela" /></a> </p>
