@@ -14,7 +14,7 @@
 <h3 align="center">
     🎉 You are my &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/m-bwela">
-        <img src="https://count.getloli.com/@:superdevp?theme=" alt=":m-bwela" />
+        <img src="https://count.getloli.com/@:m-bwela?theme=" alt=":m-bwela" />
     </a>
     &nbsp;&nbsp;&nbsp;visitor. Thank You 😍 
 </h3>
