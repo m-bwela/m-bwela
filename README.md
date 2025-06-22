@@ -21,7 +21,12 @@
 
 <hr />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-bwela&label=Profile%20views&color=0e75b6&style=flat" alt="m-bwela" /> </p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=m-bwela&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=m-bwela&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-bwela" alt="m-bwela" /></a> </p>
 
