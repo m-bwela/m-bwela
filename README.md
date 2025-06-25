@@ -6,9 +6,9 @@
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
 <!-- Welcome Animated Text --> 
-<p align="center">   
+<h1 align="center">   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=ALWAYS+LEARNING+NEW+THINGS.;SELF+STUDY.;CODE.++DEBUG.++REPEAT.;COMPUTER+GEEK." alt="Welcome Typing Animation" /> 
-</p>  
+</h1>  
 
 <h3 align="center">
     🎉 You are my &nbsp;&nbsp;&nbsp;
