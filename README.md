@@ -1,4 +1,4 @@
-<p align="center">   
+<p align="left">   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&left=true&vCenter=true&width=435&lines=WELCOME+TO+TYE'S+GITHUB+PROFILE!" alt="Welcome Typing Animation" /> 
 </p>
 
