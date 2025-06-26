@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **tyejoseph732@gmail.com**
 
-- ⚡ Fun fact **I ❤️ 🎮**
+- ⚡ Fun fact **A group of owls is called a Parliament**
 
 <div align="left">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
