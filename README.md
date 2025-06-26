@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there👋, I'm Tye! </h1>
-<h3 align="center">A passionate Full-Stack Web Developer</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <!-- Welcome Animated Text --> 
 <h1 align="center">   
