@@ -73,5 +73,5 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/m-bwela) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/m-bwela)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+you+for+visiting+my+profile!" alt="Thankyou Typing SVG" />
 </h1>
