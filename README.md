@@ -7,7 +7,7 @@
 
 <!-- Welcome Animated Text --> 
 <h1 align="center">   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=ALWAYS+LEARNING+NEW+THINGS.;SELF+STUDY.;CODE.++DEBUG.++REPEAT.;COMPUTER+GEEK." alt="Welcome Typing Animation" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things.;Self+Study.;Code.++DEBUG.++REPEAT.;COMPUTER+GEEK." alt="Welcome Typing Animation" /> 
 </h1>  
 
 <h3 align="center">
