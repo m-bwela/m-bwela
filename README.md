@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 👯 I’m looking to collaborate on **Wordpress**
+- 👯 I’m looking to collaborate on **WordPress**
 
 - 💬 Ask me about **React** and **APIs**
 
