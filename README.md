@@ -3,6 +3,11 @@
 </div>
 
 <h1 align="center">Hi there👋, I'm Tye! </h1>
+
+<h3 align="center">   
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ffdd00&center=true&vCenter=true&width=435&lines=A+Passionate+Full+Stack+Web+Developer." alt="fullstack Typing Animation" /> 
+</h3> 
+
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <!-- Welcome Animated Text --> 
