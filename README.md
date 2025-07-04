@@ -6,7 +6,7 @@
 
  <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffdd00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=A+Passionate+Full+Stack+Web+Developer." alt="Typing SVG" />
-</h3>
+ </h3>
 
 <!-- Welcome Animated Text --> 
 <h1 align="center">   
@@ -16,7 +16,7 @@
 <h3 align="center">
     🎉 You are my &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/m-bwela">
-        <img src="https://count.getloli.com/@:m-bwela?theme=" alt=":m-bwela" />
+        <img src="https://count.getloli.com/@:m-bwela?theme=" alt=":m-bwela visits" />
     </a>
     &nbsp;&nbsp;&nbsp;guest. 
   Thank You 😍 
