@@ -77,5 +77,5 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+You+For+Visiting+My+Github+Profile!" alt="Thankyou Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+You+For+Visiting+My+Profile!" alt="Thankyou Typing SVG" />
 </h1>
