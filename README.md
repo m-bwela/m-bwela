@@ -18,7 +18,7 @@
     <a href="https://github.com/m-bwela">
         <img src="https://count.getloli.com/@:m-bwela?theme=" alt=":m-bwela visits" />
     </a>
-    &nbsp;&nbsp;&nbsp;guest. 
+    &nbsp;&nbsp;&nbsp;visitor. 
   Thank You 😍 
 </h3>
 
