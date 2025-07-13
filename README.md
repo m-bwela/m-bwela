@@ -44,7 +44,7 @@
 
 - ⚡ Fun fact **A group of owls is called a Parliament**
 
-<div align="left">
+<div align="right">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
