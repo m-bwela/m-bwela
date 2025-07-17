@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Web3.0**
 
 - 👯 I’m looking to collaborate on **WordPress**
 
