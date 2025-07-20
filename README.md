@@ -5,12 +5,12 @@
 <h1 align="center">Hi there👋, I'm Tye! </h1>
 
  <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffdd00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=A+Passionate+Full+Stack+Web+Developer.;Web3+Enthusiast." alt="Tye's passion SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffdd00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=A+Passionate+Full+Stack+Web+Developer." alt="Tye's passion SVG" />
  </h3>
 
 <!-- Welcome Animated Text --> 
 <h1 align="center">   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things.;Self+Study.;Code.++Debug.++Repeat.;Computer+Geek." alt="Welcome Typing Animation" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things.;Self+Study.;Code.++Debug.++Repeat.;Computer+Geek.;Web3 Enthusiast." alt="Welcome Typing Animation" /> 
 </h1>  
 
 <h3 align="center">
