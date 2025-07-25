@@ -1,8 +1,7 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-</### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Tye,
-###/>
+<h2>Hi there 👋, I am Tye
 
  <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffdd00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=FullStack+Web++|++Web3+Developer." alt="Tye's passion SVG" />
