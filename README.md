@@ -1,8 +1,8 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
 <h2>Hi there 👋, I am Tye! </h2>
+</div>
 
  <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffdd00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=FullStack+Web++|++Web3+Developer." alt="Tye's passion SVG" />
