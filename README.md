@@ -68,7 +68,7 @@
 </div>
 
 <p><img align="left" src="https://streak-stats.demolab.com?user=m-bwela&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /></p>
-
+<br />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
