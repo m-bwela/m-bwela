@@ -1,3 +1,6 @@
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=RakibCoding&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffdd00&height=120&section=header"/>
+
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
