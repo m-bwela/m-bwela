@@ -67,7 +67,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-bwela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p><img align="left" src="https://streak-stats.demolab.com?user=m-bwela&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /></p>
+<div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="m-bwela's contribution graph" />
+    </picture>
+  </div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
