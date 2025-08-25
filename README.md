@@ -71,8 +71,6 @@
         <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
       <br>FastAPI
     </td>
-  </tr>
-  <tr>
     <td align="center" width="116">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -93,6 +91,8 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
       <br>NodeJS
@@ -109,8 +109,6 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="116">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
@@ -119,6 +117,8 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center"  width="116">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -135,8 +135,6 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
-  </tr>
- <tr>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
@@ -145,6 +143,8 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
+  </tr>
+  <tr>
               <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
