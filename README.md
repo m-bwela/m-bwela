@@ -64,7 +64,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 &nbsp;
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
