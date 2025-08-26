@@ -61,8 +61,8 @@
 <a href="https://auth.geeksforgeeks.org/user/tyejosegbd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tyejosegbd5" height="30" width="40" /></a>
 </p>
 
-###
-<h3 align="center">Languages and Tools:</h3>
+
+### <h3 align="center">Languages and Tools:</h3>
 
 &nbsp;
 <table align="center">
