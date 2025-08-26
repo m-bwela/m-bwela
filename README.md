@@ -166,7 +166,7 @@
       <br>Postman
     </td>
   <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=motoko" width="48" height="48" alt="mototko" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>motoko
     </td>
  </tr>
