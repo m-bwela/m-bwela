@@ -167,7 +167,7 @@
     </td>
   <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>motoko
+      <br>CSS
     </td>
  </tr>
 </table>
