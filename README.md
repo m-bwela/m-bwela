@@ -62,7 +62,7 @@
 </p>
 
 
- <h3 align="center">Languages and Tools:</h3>
+ <h3 align="center">Languages and Tools:
 
 &nbsp;
 <table align="center">
@@ -172,6 +172,7 @@
     </td>
  </tr>
 </table>
+</h3>
 
 
 ## 📈 GitHub Stats
