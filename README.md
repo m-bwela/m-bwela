@@ -62,7 +62,9 @@
 </p>
 
 
- <h3 align="center">Languages and Tools:
+ <div align="center">
+        <h1>💻 Tech Skills</h1>
+ </div>
 
 &nbsp;
 <table align="center">
@@ -172,7 +174,6 @@
     </td>
  </tr>
 </table>
-</h3>
 
 
 ## 📈 GitHub Stats
