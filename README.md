@@ -47,7 +47,7 @@
 - ⚡ Fun fact **I ♥️ Anime**
 
 <div align="left">
-<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" style="width:200px; height:800;" alt="Programmer GIF">
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" style="width:200px; height:300;" alt="Programmer GIF">
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
