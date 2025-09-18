@@ -176,13 +176,10 @@
 </table>
 
 
-## 📈 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-bwela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-bwela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🔥 **My Stats**
+[![m-bwela's GitHub stats](https://readmestats.999857.xyz/api?username=m-bwela&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=m-bwela&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-bwela&theme=dracula)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bwela&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bwela&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
 
 <div>
     <picture>
