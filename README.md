@@ -175,6 +175,8 @@
  </tr>
 </table>
 
+### ⏲️ **My Streak**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-bwela&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
 ### 🔥 **My Stats**
 [![m-bwela's GitHub stats](https://readmestats.999857.xyz/api?username=m-bwela&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=m-bwela&show_icons=true&theme=chartreuse-dark&border_radius=2)
