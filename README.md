@@ -188,7 +188,7 @@
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&theme=github-compact&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="m-bwela's contribution graph" />
     </picture>
-  </div
+</div>
     ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&custom_title=Development%20Activity&hide_border=true&bg_color=0d1117&line=23A401&point=B116A8&color=c9d1d9&title_color=23A401&area=true)
 
   ### 😂 **Random Joke**
