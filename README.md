@@ -182,13 +182,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bwela&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bwela&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
 
-<div>
+<!-- <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&theme=github-compact&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="m-bwela's contribution graph" />
     </picture>
-</div>
+</div> -->
 
 <div>
 <a href="https://github.com/m-bwela">
