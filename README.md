@@ -171,10 +171,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-  <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="socketio" />
-      <br>SocketIO
-    </td>
  </tr>
 </table>
 
