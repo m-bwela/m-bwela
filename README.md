@@ -3,7 +3,7 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-<h2>Hi there 👋, I am Tye! </h2>
+<h2>Hi There 👋, I am Tye! </h2>
 </div>
 
  <h3 align="center">
