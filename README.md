@@ -26,9 +26,11 @@
 
 <hr />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=m-bwela&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
+ <div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username=m-bwela&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    />
+  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-bwela&label=Profile%20views&color=0e75b6&style=flat" alt="m-bwela" /> </p>
 
