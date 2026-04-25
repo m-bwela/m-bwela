@@ -53,7 +53,7 @@
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" style="height:150;" alt="Programmer GIF">
 
 <h3 align="left">Connect with me: </h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/tyejoseph1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyejoseph1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tye-nzambu-07254muzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tye nzambu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30053937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30053937" height="30" width="40" /></a>
