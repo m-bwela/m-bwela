@@ -106,6 +106,10 @@
       <br>NextJS
     </td>
     <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="116">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
