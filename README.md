@@ -183,9 +183,7 @@
 ### 🔥 **My Stats**
 [![m-bwela's GitHub stats](https://readmestats.999857.xyz/api?username=m-bwela&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=m-bwela&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bwela&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=m-bwela&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
-
-![Top Langs](https://github-readme-stats-ashy-alpha-45.vercel.app/api/top-langs/?username=m-bwela&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats-ashy-alpha-45.vercel.app/api/top-langs/?username=m-bwela&theme=chartreuse-dark&hide_icons=true&hide_border=true&layout=compact)
 
 <!-- <div>
     <picture>
