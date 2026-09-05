@@ -193,6 +193,8 @@
     </picture>
 </div> -->
 
+[![github language](./profile/wakatime.svg)](https://github.com/m-bwela)
+
 <div>
 <a href="https://github.com/m-bwela">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-bwela&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=0ea5e9&area=true&area_color=0ea5e9" />
