@@ -199,6 +199,12 @@
 </a>
 </div>
 
+## 📈 My LeetCode Stats  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tyemuzan?theme=dark&ext=heatmap)](https://leetcode.com/u/TyeMuzan#gh-dark-mode-only)  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tyemuzan?theme=light&ext=heatmap)](https://leetcode.com/u/TyeMuzan#gh-light-mode-only)
+
   ### 😂 **Random Joke**
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
